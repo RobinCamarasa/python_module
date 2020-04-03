@@ -59,7 +59,7 @@ setup(
     author='Robin Camarasa',
     version=version,
     packages=find_packages(),
-    description='##__Description__##',
+    description='##__DESCRIPTION__##',
     long_description=long_description,
     install_requires=requirements,
     author_email='r.camarasa@erasmusmc.nl',
